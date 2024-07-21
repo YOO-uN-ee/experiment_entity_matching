@@ -1,0 +1,6 @@
+data/
+model/
+*.sh
+*.out
+*.ini
+.env
